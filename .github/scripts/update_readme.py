@@ -25,7 +25,7 @@ def main():
         print("No GITHUB_TOKEN provided")
         return
     
-    username = "Shreyash0712"
+    username = "Yashvi-S"
     
     # 1. User Data
     user_data = fetch_json(f"https://api.github.com/users/{username}", token)
@@ -294,11 +294,12 @@ def main():
         return f'<tspan class="dots">. </tspan><tspan class="label">{esc(label)}: </tspan><tspan class="dots">{dots} [</tspan><tspan class="header" dominant-baseline="text-after-edge">{esc(sparkline_str)}</tspan><tspan class="dots">]</tspan>'
 
     lines = [
-        make_top_header("shreyash@swami", current_date_str),
+        make_top_header("yashvi@sharma", current_date_str),
         pad_line("OS", "Windows 11, Linux (Fedora)"),
         pad_line("Uptime", uptime_str),
         pad_line("IDE", "VSCode, Antigravity, IntelliJ"),
-        pad_line("Status", "Open For Work"),
+        pad_line("Status", "Employed"),
+        pad_line("Host", "Tata Consultancy Services"),
         '<tspan class="dots">.</tspan>',
         pad_line("Working.on", working_on),
         '<tspan class="dots">.</tspan>',
@@ -309,8 +310,8 @@ def main():
         pad_line("Hobbies.Hardware", "Table-Tennis, Reading"),
         '<tspan class="dots">.</tspan>',
         make_header("Contact"),
-        pad_line("Email", "shreyash.swami2476@gmail.com"),
-        pad_line("LinkedIn", "in/shreyashswami"),
+        pad_line("Email", "yashvi2078@gmail.com"),
+        pad_line("LinkedIn", "in/yashvi03"),
         '<tspan class="dots">.</tspan>',
         make_header("GitHub-Stats"),
         pad_double("Repos", f"{fmt(public_repos)} [Contrib: {fmt(contrib)}]", "Stars", fmt(stars)),
