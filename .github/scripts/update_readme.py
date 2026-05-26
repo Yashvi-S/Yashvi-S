@@ -226,7 +226,7 @@ def main():
         sparkline = "              "
 
     # 4. Date and Uptime
-    dob = date(2004, 12, 7) 
+    dob = date(2002, 1, 19) 
     today = date.today()
     
     years = today.year - dob.year
