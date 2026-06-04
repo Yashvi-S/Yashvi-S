@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 650 544" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 650 472" xmlns="http://www.w3.org/2000/svg">
 <style>
   .text { font-family: "Courier New", Courier, monospace; font-size: 12px; }
   .label { fill: #58a6ff; font-weight: bold; }
@@ -33,9 +33,5 @@
 <text x="20" y="408" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Commits: </tspan><tspan class="dots">..........................</tspan><tspan class="value"> 4</tspan><tspan class="dots"> | </tspan><tspan class="label">Followers: </tspan><tspan class="dots">...........................</tspan><tspan class="value"> 1</tspan></text>
 <text x="20" y="426" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Pull.Requests: </tspan><tspan class="dots">....................</tspan><tspan class="value"> 0</tspan><tspan class="dots"> | </tspan><tspan class="label">Lines.of.Code: </tspan><tspan class="dots">..................</tspan><tspan class="value"> ~6,111</tspan></text>
 <text x="20" y="444" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Activity.(14d): </tspan><tspan class="dots">............................................... [</tspan><tspan class="header" dominant-baseline="text-after-edge">▂▂▂▂▇▂▇▂▂▂▂▂▂▂</tspan><tspan class="dots">]</tspan></text>
-<text x="20" y="462" xml:space="preserve"><tspan class="dots">.</tspan></text>
-<text x="20" y="480" xml:space="preserve"><tspan class="header">- Today.(Last.24h) ---------------------------------------------------------------</tspan></text>
-<text x="20" y="498" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Starred: </tspan><tspan class="dots">.............................................................</tspan><tspan class="value"> 1 repo(s)</tspan></text>
-<text x="20" y="516" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="muted">   &gt; Petty-Script </tspan><tspan class="dots">..................................................</tspan><tspan class="muted"> @ 23:16 IST</tspan></text>
 </g>
 </svg>
