@@ -1,4 +1,4 @@
-<svg width="100%" viewBox="0 0 650 562" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" viewBox="0 0 650 472" xmlns="http://www.w3.org/2000/svg">
 <style>
   .text { font-family: "Courier New", Courier, monospace; font-size: 12px; }
   .label { fill: #58a6ff; font-weight: bold; }
@@ -32,11 +32,6 @@
 <text x="20" y="390" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Repos: </tspan><tspan class="dots">...............</tspan><tspan class="value"> 3 [Contrib: 1]</tspan><tspan class="dots"> | </tspan><tspan class="label">Stars: </tspan><tspan class="dots">...............................</tspan><tspan class="value"> 0</tspan></text>
 <text x="20" y="408" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Commits: </tspan><tspan class="dots">.........................</tspan><tspan class="value"> 17</tspan><tspan class="dots"> | </tspan><tspan class="label">Followers: </tspan><tspan class="dots">...........................</tspan><tspan class="value"> 1</tspan></text>
 <text x="20" y="426" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Pull.Requests: </tspan><tspan class="dots">....................</tspan><tspan class="value"> 0</tspan><tspan class="dots"> | </tspan><tspan class="label">Lines.of.Code: </tspan><tspan class="dots">..................</tspan><tspan class="value"> ~9,770</tspan></text>
-<text x="20" y="444" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Activity.(14d): </tspan><tspan class="dots">............................................... [</tspan><tspan class="header" dominant-baseline="text-after-edge">▂▂▂▂▂▂▂▂▂▂▂▂▇▂</tspan><tspan class="dots">]</tspan></text>
-<text x="20" y="462" xml:space="preserve"><tspan class="dots">.</tspan></text>
-<text x="20" y="480" xml:space="preserve"><tspan class="header">- Today.(Last.24h) ---------------------------------------------------------------</tspan></text>
-<text x="20" y="498" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Pushed: </tspan><tspan class="dots">................................................</tspan><tspan class="value"> 2 commits to newchanges</tspan></text>
-<text x="20" y="516" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="muted">   &gt; [59ede56] Merge origin/master: resolve forecast_r </tspan><tspan class="dots">..</tspan><tspan class="muted"> newchanges @ 17:01 IST</tspan></text>
-<text x="20" y="534" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="muted">   &gt; [a1e3fba] task 11-17 and task 9 completed </tspan><tspan class="dots">..........</tspan><tspan class="muted"> newchanges @ 17:27 IST</tspan></text>
+<text x="20" y="444" xml:space="preserve"><tspan class="dots">. </tspan><tspan class="label">Activity.(14d): </tspan><tspan class="dots">............................................... [</tspan><tspan class="header" dominant-baseline="text-after-edge">▂▂▂▂▂▂▂▂▂▂▂▇▂▂</tspan><tspan class="dots">]</tspan></text>
 </g>
 </svg>
